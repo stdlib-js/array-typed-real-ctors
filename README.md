@@ -149,6 +149,13 @@ for ( i = 0; i < DTYPES.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-ctors`][@stdlib/array/ctors]</span><span class="delimiter">: </span><span class="description">array constructors.</span>
+-   <span class="package-name">[`@stdlib/array-typed-complex-ctors`][@stdlib/array/typed-complex-ctors]</span><span class="delimiter">: </span><span class="description">complex typed array constructors.</span>
+
 </section>
 
 <!-- /.related -->
@@ -221,6 +228,14 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/array-typed-real-ctors/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-typed-real-ctors/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/array/ctors]: https://github.com/stdlib-js/array-ctors
+
+[@stdlib/array/typed-complex-ctors]: https://github.com/stdlib-js/array-typed-complex-ctors
+
+<!-- </related-links> -->
 
 </section>
 
