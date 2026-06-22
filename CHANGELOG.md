@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-06-22)
+
+<section class="features">
+
+### Features
+
+-   [`74d89e2`](https://github.com/stdlib-js/stdlib/commit/74d89e2fd26df1f23180e86e34e074c97de018cd) - add float16 dtype support to `array/typed-real-ctors` [(#13049)](https://github.com/stdlib-js/stdlib/pull/13049)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`74d89e2`](https://github.com/stdlib-js/stdlib/commit/74d89e2fd26df1f23180e86e34e074c97de018cd) - **feat:** add float16 dtype support to `array/typed-real-ctors` [(#13049)](https://github.com/stdlib-js/stdlib/pull/13049) _(by Gururaj Gurram)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Gururaj Gurram
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
